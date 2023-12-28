@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Organo-Complete-React
 Repositório com a versão mais avançada e completa da Organo.
->>>>>>> 8a05f78367c060d657912caf4129a1a1efdc0000
