@@ -1,0 +1,45 @@
+.times {
+    text-align: center;
+}
+
+.times .container-cabecalho {
+    position: relative;
+}
+
+.times .titulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.times .titulo h1 {
+    font-size: 40px;
+    color: #6278F7;
+    display: inline-block;
+    padding-bottom: 24px;
+    margin: 32px 0 0;
+}
+
+.times .titulo .linha {
+    border-top: 4px solid #6278F7;
+    width: 10%;
+    margin-bottom: 42px;
+}
+
+.times .container-cabecalho img {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+h1,
+h2 {
+    font-family: 'Prata', serif;
+}
+
+@media screen and (max-width: 500px) {
+    .times .titulo h1 {
+        font-size: 25px;
+    }
+}
